@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(39, 43, 53);
+    font-family: monospace;
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33px;
+    margin-top: 5px;
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(108, 161, 161);
+    outline: none;
+}
+button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(66, 93, 161);
+    color: white;
+    border-radius: 2px;
+    font-size: 19px;
+    border: none;
+    outline: none;
+   
+}
+.text ul{
+    position: relative;
+    background-color: rgb(151, 215, 215);
+    color: rgb(27, 27, 35);
+    padding: 7px;
+    font-size: 19px;
+    text-align: left;
+}
+.text ul i{
+ position: absolute;
+ right: 10px;
+ cursor: pointer;
+
+}
